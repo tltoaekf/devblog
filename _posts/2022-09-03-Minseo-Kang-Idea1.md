@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Minseo Kang Idea 1"
-date:   2022-09-02 4:48:49 +0900
+date:   2022-09-03 4:48:49 +0900
 categories: Ideas
 ---
 
@@ -15,7 +15,7 @@ categories: Ideas
 
   - 메이플 스토리라는 게임 내에는 여러가지 맵들이 있는데, 간단히 말해서 테마가 여러가지라는 말이다. 숲의 맵 이라고 한다면 숲을 바탕으로 한 테마에서 게임을 할 수 있는 것이다.
 
-  >Ex) ![figure2](/devblog/assets/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-09-02%20%EC%98%A4%ED%9B%84%205.14.15.png)
+  >Ex) ![figure2](/devblog/assets/maplestory.png)
 
 - 튜토리얼을 할 때도 그 테마에 맞춰서 알아듣기 쉽고 명확하게 설명 해 주는데 이건 초등학교 5~6학년 정도가 적당하지 않을까 생각
 
