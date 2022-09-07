@@ -4,7 +4,7 @@ title: "Minseo Kang Idea 1"
 date: 2022-09-03 4:48:49 +0900
 categories: Ideas
 ---
-​
+
 ## TL;DR
 ​
 현재 기획하고 있는 치매예방 퍼즐게임 플랫폼에 추가되면 몇가지 새로운 기능을 제안한다.
