@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Object oriented programming with Swift"
-date: 2022-09-03 4:48:49 +0900
+date: 2022-09-10 6:00:49 +0900
 categories: Ideas
 ---
 ​
