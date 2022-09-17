@@ -50,9 +50,8 @@ func checkUserSelection(userSelection: Int) {
     }
   }
 ```
- 
-write summary and overall goal of the codes written above
-​
+
+
 ## OOP
 
 ```swift
