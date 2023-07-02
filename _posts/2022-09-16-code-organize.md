@@ -6,7 +6,7 @@ categories: Coding
 ---
 ​
 ## Introduction
-​
+​test
 ---
 ​
 Coding Organization: Change the color of cell, How to show the wrong cell & OOP
